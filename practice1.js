@@ -12,7 +12,7 @@ do {
     console.log(i, ' ', Math.sqrt(i).toFixed(3))
 } while (i++ < 10);
 
-//3=1. 52페이지 요일 switch 이용하기 
+//3-1. 52페이지 요일 switch 이용하기 
 
 const WEEK_NAMES = new Date();
 // console.log("🚀 ~ WEEK_NAMES", WEEK_NAMES, WEEK_NAMES.getDay());
