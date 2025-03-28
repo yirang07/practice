@@ -113,7 +113,7 @@
         <mxCell id="PSRwljVeOztxx_9jxEjq-159" value="&lt;u&gt;고객ID&lt;/u&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="PSRwljVeOztxx_9jxEjq-158">
           <mxGeometry y="26" width="200" height="34" as="geometry" />
         </mxCell>
-        <mxCell id="PSRwljVeOztxx_9jxEjq-163" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;가입일&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="PSRwljVeOztxx_9jxEjq-158">
+        <mxCell id="PSRwljVeOztxx_9jxEjq-163" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;가입년월&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="PSRwljVeOztxx_9jxEjq-158">
           <mxGeometry y="60" width="200" height="34" as="geometry" />
         </mxCell>
         <mxCell id="PSRwljVeOztxx_9jxEjq-164" value="&lt;blockquote style=&quot;margin: 0 0 0 40px; border: none; padding: 0px;&quot;&gt;일련번호&lt;/blockquote&gt;" style="text;html=1;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontSize=15;" vertex="1" parent="PSRwljVeOztxx_9jxEjq-158">
